@@ -21,6 +21,9 @@
     --light: var(--background);
     --dark: var(--text);
 }
+body{
+    margin: 0 auto;
+}
 
 
 body, html {
